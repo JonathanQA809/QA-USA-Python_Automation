@@ -180,19 +180,6 @@ class UrbanRoutesPage:
 
 
 
-    """
-Locate and input an address into the "to" field.
-Locate and click on “Call a Taxi” button
-Click on the Supportive plan option.
-Enter the phone number (Need to follow the steps from test case 3)
-Add a message for the driver.
-Click "Order" button.
-"""
-
-
-
-
-
 
 
 
